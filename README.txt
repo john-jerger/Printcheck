@@ -10,7 +10,7 @@ PrintCheck - Website Package
    Works anywhere (phone, preview). Navigation runs inside the file.
 
 Before going live, replace in all files:
-   https://www.printcheck.example  -> your real domain
+   https://john-jerger.github.io/Printcheck  -> your real domain
    contact@printcheck.example      -> your real email
 Add an og.png image (1200x630) to the site root for social sharing.
 Submit sitemap.xml in Google Search Console.
